@@ -1,0 +1,7 @@
+D:\Software Projects\SBoxModList\SBoxModList\bin\Debug\SBoxModList.exe
+D:\Software Projects\SBoxModList\SBoxModList\bin\Debug\SBoxModList.pdb
+D:\Software Projects\SBoxModList\SBoxModList\obj\x86\Debug\SBoxModList.Form1.resources
+D:\Software Projects\SBoxModList\SBoxModList\obj\x86\Debug\SBoxModList.Properties.Resources.resources
+D:\Software Projects\SBoxModList\SBoxModList\obj\x86\Debug\SBoxModList.csproj.GenerateResource.Cache
+D:\Software Projects\SBoxModList\SBoxModList\obj\x86\Debug\SBoxModList.exe
+D:\Software Projects\SBoxModList\SBoxModList\obj\x86\Debug\SBoxModList.pdb
