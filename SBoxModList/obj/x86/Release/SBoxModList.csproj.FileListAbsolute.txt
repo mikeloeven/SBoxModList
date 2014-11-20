@@ -5,3 +5,4 @@ D:\Software Projects\SBoxModList\SBoxModList\obj\x86\Release\SBoxModList.Propert
 D:\Software Projects\SBoxModList\SBoxModList\obj\x86\Release\SBoxModList.csproj.GenerateResource.Cache
 D:\Software Projects\SBoxModList\SBoxModList\obj\x86\Release\SBoxModList.exe
 D:\Software Projects\SBoxModList\SBoxModList\obj\x86\Release\SBoxModList.pdb
+D:\Software Projects\SBoxModList\SBoxModList\obj\x86\Release\SBoxModList.csprojResolveAssemblyReference.cache
