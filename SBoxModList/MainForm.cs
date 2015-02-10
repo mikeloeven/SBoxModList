@@ -18,7 +18,7 @@ namespace SBoxModList
 {
 
     
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
         
         OpenFileDialog ofd = new OpenFileDialog();
@@ -27,7 +27,7 @@ namespace SBoxModList
         XPathNavigator nav;
         XPathNodeIterator modListIt;
         
-        public Form1()
+        public MainForm()
         {
             ofd.Filter = "SBC|*.sbc";
             InitializeComponent();
