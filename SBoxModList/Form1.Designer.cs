@@ -28,6 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
+
+            this.components = new System.ComponentModel.Container();
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Text = "Form1";
             this.btnOpen = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.txtOutRAW = new System.Windows.Forms.RichTextBox();

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.ComponentModel.Design;
 using System.Data;
 using System.Drawing;
 using System.Linq;
@@ -16,15 +17,7 @@ using System.Linq;
 namespace SBoxModList
 {
 
-    public class WebTimeout : WebClient
-    {
-        protected override WebRequest GetWebRequest(Uri uri)
-        {
-            WebRequest w = base.GetWebRequest(uri);
-            w.Timeout = 5000;
-            return w;
-        }
-    }
+    
     public partial class Form1 : Form
     {
         
@@ -228,4 +221,6 @@ namespace SBoxModList
         
 
     }
+
+    
 }
